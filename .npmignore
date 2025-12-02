@@ -1,0 +1,25 @@
+# Source files (we ship built files)
+src/
+
+# Example app
+example/
+
+# Documentation (include in npm, but listed for reference)
+# docs/
+
+# Development files
+.git/
+.github/
+.vscode/
+.idea/
+
+# Config files
+tsconfig.json
+.gitignore
+.npmignore
+
+# Test files
+__tests__/
+*.test.ts
+coverage/
+

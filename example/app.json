@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Google Sign-In Example",
+    "slug": "google-signin-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a2e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.googlesignin"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.example.googlesignin"
+    },
+    "plugins": [
+      ["expo-plugin-google-signin", {
+        "androidPackage": "com.example.googlesignin"
+      }]
+    ],
+    "extra": {
+      "googleWebClientId": "YOUR_WEB_CLIENT_ID.apps.googleusercontent.com"
+    }
+  }
+}
+
