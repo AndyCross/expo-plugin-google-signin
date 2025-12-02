@@ -1,7 +1,7 @@
 # expo-plugin-google-signin
 
 [![npm version](https://img.shields.io/npm/v/expo-plugin-google-signin.svg)](https://www.npmjs.com/package/expo-plugin-google-signin)
-[![CI](https://github.com/YOUR_USERNAME/expo-plugin-google-signin/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/expo-plugin-google-signin/actions/workflows/ci.yml)
+[![CI](https://github.com/AndyCross/expo-plugin-google-signin/actions/workflows/ci.yml/badge.svg)](https://github.com/AndyCross/expo-plugin-google-signin/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An Expo config plugin that adds native Google Sign-In to Android using the modern [Credential Manager API](https://developer.android.com/identity/sign-in/credential-manager). Includes automatic nonce generation for secure Auth0 token exchange.

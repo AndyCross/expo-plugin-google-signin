@@ -227,7 +227,7 @@ console.log('GoogleCredentialModule:', NativeModules.GoogleCredentialModule);
 
 If you're still stuck:
 
-1. Check [existing GitHub issues](https://github.com/your-org/expo-plugin-google-signin/issues)
+1. Check [existing GitHub issues](https://github.com/AndyCross/expo-plugin-google-signin/issues)
 2. Create a new issue with:
    - Expo SDK version
    - React Native version

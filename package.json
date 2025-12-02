@@ -27,12 +27,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/expo-plugin-google-signin"
+    "url": "https://github.com/AndyCross/expo-plugin-google-signin"
   },
   "bugs": {
-    "url": "https://github.com/your-org/expo-plugin-google-signin/issues"
+    "url": "https://github.com/AndyCross/expo-plugin-google-signin/issues"
   },
-  "homepage": "https://github.com/your-org/expo-plugin-google-signin#readme",
+  "homepage": "https://github.com/AndyCross/expo-plugin-google-signin#readme",
   "peerDependencies": {
     "expo": ">=49.0.0",
     "react-native": ">=0.72.0"
