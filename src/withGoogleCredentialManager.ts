@@ -61,7 +61,7 @@ class GoogleCredentialModule(reactContext: ReactApplicationContext) : ReactConte
 
     @ReactMethod
     fun signIn(webClientId: String, promise: Promise) {
-        val activity: Activity? = currentActivity
+        val activity: Activity? = reactApplicationContext.currentActivity
         if (activity == null) {
             promise.reject("NO_ACTIVITY", "No activity available")
             return

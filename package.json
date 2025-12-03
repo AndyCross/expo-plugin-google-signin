@@ -1,6 +1,6 @@
 {
   "name": "expo-plugin-google-signin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Expo config plugin for Android Google Sign-In using Credential Manager API with nonce support",
   "main": "build/index.js",
   "types": "build/index.d.ts",
